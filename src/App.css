@@ -1,0 +1,41 @@
+body {
+    height: 90vh;
+    width: 90%;
+    background-color: salmon;
+}
+
+h1 {
+    font-size: 50px;
+    color:white ;
+    font-family: cursive;
+    
+}
+
+.main {
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+input {
+    outline: white;
+    background-color: white;
+    height: 40px;   
+    border: 0cap;
+    border-radius: 6px;
+
+}
+
+button {
+    width: 70px;
+    height: 40px;
+    margin: 10px;
+    outline: tomato;
+    border: 2px solid rgb(130, 85, 85);
+    border-radius: 5px;
+  
+}
